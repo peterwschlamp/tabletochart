@@ -1,0 +1,1 @@
+A javascript plugin that makes google charts automagically from html tables
